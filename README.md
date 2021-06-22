@@ -1,6 +1,6 @@
 # RAPIDXEND
 
-### A scalable file transfer based-on `Spring-boot`, `Mongodb`, `Redis pub/sub` 
+### A scalable file transfer based-on `Spring-boot`,  `Mongodb`, `Redis pub/sub`,   `Websocket`
 Rapidxend is an open source project allowing to deploy in a distributed system, a file sharing system.
 
 ## Features provided
