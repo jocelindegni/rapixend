@@ -20,7 +20,7 @@ Rapidxend is an open source project allowing to deploy in a distributed system, 
 $ git clone https://github.com/jocelindegni/rapixend.git
 ```
 
-### Run applicattion
+### Run application
 
 Before run the application, some environement variables are required
 
@@ -52,7 +52,7 @@ $ mvn spring-boot:run -DREDIS.channel=event -DMONGO.db_name=db
 - Add a kubernetes configuration for automatic deployment
 
 
-# LICENSE
+# License
 
 MIT LICENSE
 
